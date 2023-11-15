@@ -1,0 +1,8 @@
+rollno=input("enter the rollno:")
+print(rollno)
+studentname=input("enter the studentname")
+print(studentname)
+coursename=input("enter the coursename")
+print(coursename)
+age=input("enter the age")
+print(age)
